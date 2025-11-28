@@ -1,7 +1,3 @@
-¡Perfecto! Aquí lo tienes **directamente en el chat**, limpio, sin bloques cat, listo para copiar en tu `README.md` ⬇️
-
----
-
 # 📦 Curso JXM-001 — JSON & XML para Aplicaciones Web
 
 🏷️ **Duración:** 20 horas
@@ -120,8 +116,7 @@ git clone https://github.com/<org>/curso-json-xml-JXM-001.git
 ## 📧 Contacto
 
 👨‍🏫 Formador: *David Pestana*
-📩 david.pestana@…
-🔗 LinkedIn: [https://linkedin.com/in/…](https://linkedin.com/in/…)
+🔗 LinkedIn: https://www.linkedin.com/in/david-pestana-perdomo-3669b58b/
 
 ---
 
