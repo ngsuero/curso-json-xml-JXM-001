@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "email": "ana@example.com",
+    "vip": true,
+    "pais": "ES"
+  },
+  {
+    "id": 2,
+    "nombre": "Luis",
+    "email": "luis_1984@example.org",
+    "vip": false,
+    "pais": "ES"
+  },
+  {
+    "id": 3,
+    "nombre": "Maria",
+    "email": "maria@example.com",
+    "vip": false,
+    "pais": "PT"
+  },
+  {
+    "id": 4,
+    "nombre": "Carlos",
+    "email": "carlos.dev@example.net",
+    "vip": true,
+    "pais": "FR"
+  }
+]

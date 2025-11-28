@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Raton inalambrico",
+    "categoria": "ratones",
+    "precio": 19.99,
+    "stock": 25,
+    "destacado": true
+  },
+  {
+    "id": 2,
+    "nombre": "Teclado mecanico",
+    "categoria": "teclados",
+    "precio": 79.9,
+    "stock": 10,
+    "destacado": true
+  },
+  {
+    "id": 3,
+    "nombre": "Pantalla 24 pulgadas",
+    "categoria": "pantallas",
+    "precio": 149.0,
+    "stock": 5,
+    "destacado": false
+  },
+  {
+    "id": 4,
+    "nombre": "Alfombrilla gaming",
+    "categoria": "accesorios",
+    "precio": 15.5,
+    "stock": 40,
+    "destacado": false
+  },
+  {
+    "id": 5,
+    "nombre": "Auriculares USB",
+    "categoria": "audio",
+    "precio": 39.9,
+    "stock": 0,
+    "destacado": true
+  }
+]
