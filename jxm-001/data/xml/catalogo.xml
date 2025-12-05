@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="catalogo.xsd">
+  <producto>
+    <nombre>Teclado</nombre>
+    <precio>50.00</precio>
+    <stock>10</stock>
+    <categoria>TEC</categoria>
+    <estado>nuevo</estado>
+  </producto>
+
+  <producto>
+    <nombre>Monitor 24"</nombre>
+    <precio>150.50</precio>
+    <stock>5</stock>
+    <categoria>TEC</categoria>
+    <estado>reaco</estado>
+  </producto>
+</catalogo>

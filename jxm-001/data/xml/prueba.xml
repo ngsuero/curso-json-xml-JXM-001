@@ -1,0 +1,11 @@
+<!DOCTYPE catalogo [
+  <!ELEMENT catalogo (producto+)>
+  <!ELEMENT producto (nombre, precio)>
+  <!ELEMENT nombre (#PCDATA)>
+  <!ELEMENT precio (#PCDATA)>
+]>
+<catalogo>
+  <producto>
+    <nombre>Teclado</nombre>
+  </producto>
+</catalogo>
